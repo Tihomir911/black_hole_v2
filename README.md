@@ -1,7 +1,8 @@
 # 🌌 Black Hole Simulator
 
 <p align="center">
-  <img src="https://science.nasa.gov/wp-content/uploads/2023/09/black-hole-m87-jpg.webp" width="850" alt="M87 black hole captured by the Event Horizon Telescope">
+  <img src="https://www.nao.ac.jp/en/news/sp/20190410-eht/images/20190410-eht-m87bh.jpg
+" width="850" alt="M87 black hole captured by the Event Horizon Telescope">
 </p>
 
 <h3 align="center">Exploring the Universe Beyond the Event Horizon</h3>
