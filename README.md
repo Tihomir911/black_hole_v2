@@ -1,8 +1,7 @@
 # 🌌 Black Hole Simulator
 
 <p align="center">
-  <img src="https://www.nao.ac.jp/en/news/sp/20190410-eht/images/20190410-eht-m87bh.jpg
-" width="850" alt="M87 black hole captured by the Event Horizon Telescope">
+  <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/h/hires.jpg?crop=faces%2Cfocalpoint&fit=clip&h=2330&w=4000" width="850" alt="The first image of the supermassive black hole M87*">
 </p>
 
 <h3 align="center">Exploring the Universe Beyond the Event Horizon</h3>
@@ -12,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Physics_Engine-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/React-Interface-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Three.js-3D_Rendering-black?style=flat-square&logo=threedotjs">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-Physics_Engine-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/React-Interface-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Three.js-3D_Rendering-black?style=flat-square&logo=threedotjs" alt="Three.js">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
 ---
@@ -37,10 +36,6 @@ A black hole is a region of spacetime where gravity is so strong that nothing ca
 Black holes can form through the gravitational collapse of massive stars. Much larger black holes, containing millions or billions of solar masses, reside in the centers of many galaxies.
 
 Despite their name, black holes are not simply cosmic vacuum cleaners. At sufficiently large distances, their gravitational influence behaves like that of any other object with the same mass.
-
-<p align="center">
-  <img src="https://science.nasa.gov/wp-content/uploads/2023/09/black-hole-m87-jpg.webp" width="700" alt="The shadow and bright emission surrounding M87 star black hole">
-</p>
 
 ### The Event Horizon
 
@@ -88,19 +83,21 @@ Its rotation affects the surrounding spacetime through a phenomenon called **fra
 ### TON 618 — A Giant of the Observable Universe
 
 <p align="center">
-  <img src="https://www.nasa.gov/wp-content/uploads/2023/03/black-hole-comparison.jpg" width="750" alt="NASA visualization comparing the sizes of black holes">
+  <img src="https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014335/SMBH_Scale_Still_1.jpg" width="850" alt="NASA visualization comparing supermassive black holes, including TON 618">
 </p>
 
-TON 618 is an extremely distant quasar associated with one of the most massive black holes known.
+*Artist's visualization: NASA's comparison of supermassive black holes by the sizes of their shadows.*
 
-Its black hole is estimated to have a mass of tens of billions of solar masses. Its enormous scale illustrates just how extreme black holes can become.
+TON 618 is an extremely distant quasar associated with one of the most massive known black holes.
 
-Because TON 618 is observed as a quasar, much of what we learn about it comes from the radiation emitted by its surrounding environment rather than from direct observation of the black hole itself.
+NASA describes TON 618 as containing more than 60 billion solar masses. Its enormous scale illustrates just how extreme supermassive black holes can become.
+
+Because TON 618 is observed as a quasar, much of what astronomers learn about it comes from radiation emitted by its surrounding environment rather than from a direct image of the black hole.
 
 ### M87* — The First Black Hole Image
 
 <p align="center">
-  <img src="https://science.nasa.gov/wp-content/uploads/2023/09/black-hole-m87-jpg.webp" width="650" alt="M87 black hole image">
+  <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/h/hires.jpg?crop=faces%2Cfocalpoint&fit=clip&h=2330&w=4000" width="700" alt="The shadow of the supermassive black hole M87*">
 </p>
 
 M87* is the supermassive black hole at the center of the galaxy Messier 87.
@@ -114,8 +111,12 @@ In April 2019, the Event Horizon Telescope collaboration released the first imag
 ### Sagittarius A* — Our Galactic Center
 
 <p align="center">
-  <img src="https://www.nasa.gov/wp-content/uploads/2022/05/sagittarius-a-black-hole.jpg" width="650" alt="Sagittarius A star black hole">
+  <a href="https://www.nsf.gov/news/media-toolkits/event-horizon-telescope">
+    <img src="https://nsf-gov-resources.nsf.gov/2024-12/sag-event-image.jpg" width="700" alt="The Event Horizon Telescope image of Sagittarius A*">
+  </a>
 </p>
+
+*Image source: Event Horizon Telescope Collaboration, via the U.S. National Science Foundation.*
 
 Sagittarius A* is the supermassive black hole located at the center of the Milky Way.
 
@@ -123,7 +124,7 @@ Despite being much less massive than M87*, it is far closer to Earth, making it 
 
 * **Location:** Center of the Milky Way.
 * **Mass:** Approximately 4 million solar masses.
-* **Significance:** The closest known supermassive black hole to Earth.
+* **Significance:** The supermassive black hole at the center of our galaxy.
 
 ---
 
@@ -176,8 +177,9 @@ A scientifically meaningful simulation must account for the assumptions and limi
 
 * [NASA — Black Holes](https://science.nasa.gov/universe/black-holes/)
 * [NASA — First Image of a Black Hole](https://science.nasa.gov/resource/first-image-of-a-black-hole/)
-* [NASA — Comparing the Sizes of Black Holes](https://www.nasa.gov/universe/nasa-animation-sizes-up-the-universes-biggest-black-holes/)
-* [Event Horizon Telescope](https://eventhorizontelescope.org/)
+* [NASA — Comparing the Sizes of Black Holes](https://svs.gsfc.nasa.gov/14335/)
+* [U.S. National Science Foundation — Event Horizon Telescope](https://www.nsf.gov/news/media-toolkits/event-horizon-telescope)
+* [Event Horizon Telescope Collaboration](https://eventhorizontelescope.org/)
 * [Einstein Online — Black Holes](https://www.einstein-online.info/en/spotlight/black_holes/)
 
 <p align="center">
