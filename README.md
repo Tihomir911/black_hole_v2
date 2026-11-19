@@ -186,6 +186,8 @@ A scientifically meaningful simulation must account for the assumptions and limi
   <sub>Physics · Astronomy · Computational Science · Real-Time Graphics</sub>
 </p>
 
+---
+
 <p align="center">
   <strong>Explore gravity. Visualize spacetime. Discover the Universe.</strong>
 </p>
